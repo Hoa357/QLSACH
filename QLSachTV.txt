@@ -1,0 +1,169 @@
+28
+01
+Tin Hoc
+Nguyen Khoa
+NXB Kim Dong
+2003
+SGK
+02
+Ngu Van
+Nguyen Van Manh
+NXB Kim Dong
+2012
+SGK
+03
+Toan
+Nguyen Trai
+NXB Kim Dong
+2014
+SGK
+04
+Tu Tuong HCM
+Nguyen Thu Trang
+NXB Lao Dong
+2014
+Tai Lieu
+05
+QPAN
+Tran Manh
+NXB Khoa Hoc
+2012
+Tu Lieu
+06
+Toan Cao Cap
+Tran Van Lam
+NXB Khoa Hoc
+2012
+Tu Lieu
+07
+Xac Xuat Thong Ke
+Nguyen Thu Thuy
+NXB Khoa Hoc
+2012
+Tai Lieu
+08
+Qua Tang Cuoc Song
+Nguyen Thi Thu Thuy
+NXB Kim Dong
+2012
+Truyen
+09
+Ngu Van
+Phan Trong Luan
+NXB Giao Duc
+2012
+SGK
+10
+Toi Tu Hoc
+Nguyen Duy Can
+NXB Tre
+1961
+Tai Lieu
+11
+Nguoi Di Vang
+Nguyen Binh Phuong
+NXB Tong Hop
+1999
+Tieu Thuyet
+12
+Mat Biec
+Nguyen Nhat Anh
+NXB Tre
+2013
+Truyen Dai
+13
+De Men Phieu Luu Ky
+To Hoai
+NXB Tre
+1941
+Truyen
+14
+Chieu Chieu
+To Hoai
+NXB Van Hoc
+2014
+Tieu Thuyet
+15
+Chien Binh Cau Vong
+Andrea Hirata
+NXB Hoi Nha Van
+2005
+Tieu Thuyet
+16
+Tho Tho
+Xuan Dieu
+NXB Doi Nay
+1938
+Van Hoc
+17
+Xuan Quynh Tho Va Doi
+Xuan Quynh
+NXB Van Hoc
+2004
+Tho
+18
+Dac Nhan Tam
+Dale Carnegie
+NXB Van Hoc
+1936
+Sach Tu Luc
+19
+Canh Dong Bat Tan
+Nguyen Ngoc Tu
+NXB Tre
+2005
+Tieu Thuyet
+20
+Chua Dan
+Nguyen Tuan
+NXB Tre
+1946
+Tieu Thuyet
+21
+Thoi Xa Vang
+Le Luu
+NXB Tre
+1984
+Tieu Thuyet
+22
+So Do
+Vu Trong Phung
+NXB Van Hoc
+1938
+Tieu Thuyet
+23
+Nhung Ngay Tho Au
+Nguyen Hong
+NXB Van Hoc
+1938
+Van Hoc
+24
+Dat Rung Phuong Nam
+Doan Gioi
+NXB Kim Dong
+2010
+Tieu Thuyet
+25
+Vang Bong Mot Thoi
+Nguyen Tuan
+NXB Van Hoc
+1940
+Van Hoc
+26
+Lap Trinh Huong Doi Tuong
+Tran Dan Thu
+NXB DHQG
+2021
+Sach Kham Khao
+27
+Nhap Mon Lap Trinh
+Dinh Ba Kien
+NXB KHKT
+2021
+Sach Kham Khao
+28
+Nhap Mon Lap Trinh
+Nguyen Thanh Phuong
+NXB KHTN
+2021
+Sach Kham Khao
